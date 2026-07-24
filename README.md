@@ -18,19 +18,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <br />
-  <br />
-
-  <a href="https://www.linkedin.com/in/samarth-dhage-72a934382/">
-    <img src="https://github.com/SamarthDhage07.png?size=180" width="120" height="120" alt="Samarth Dhage on LinkedIn" style="border-radius: 50%; border: 3px solid #22D3EE;" />
-  </a>
-  <br />
-  <sub><b>Click the portrait to connect on LinkedIn</b></sub>
 </div>
 
 <div align="center">
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Sharing+the+build+journey+on+Instagram+%40sam__dhage;Connecting+with+builders+on+LinkedIn;Open+to+collaboration%2C+learning%2C+and+hard+problems." alt="Animated social status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=650&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+with+C%2B%2B+%7C+Java+%7C+TypeScript+%7C+Python;Creating+with+React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Sharing+the+build+journey+on+Instagram+%40sam__dhage;Connecting+with+builders+on+LinkedIn." alt="Animated technology and social status" />
 </div>
 
 ## About me
@@ -49,7 +41,13 @@ const samarth = {
 - Enjoying the satisfying overlap of product building, DSA, and competitive programming.
 - Open to thoughtful collaborations and interesting technical conversations.
 
-## Toolbox
+## Core technology stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Most_used-C%2B%2B%20%7C%20Java%20%7C%20TypeScript%20%7C%20React-155E75?style=for-the-badge&labelColor=0F172A" alt="Most used technologies" />
+  <br />
+  <br />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,kotlin,html,css&theme=dark" alt="Languages" />
