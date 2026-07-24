@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-labelledby="title description">
+  <title id="title">Animated developer activity pulse</title>
+  <desc id="description">An animated activity line representing consistent building and learning.</desc>
+  <rect width="900" height="170" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="168" rx="13" fill="none" stroke="#263243"/>
+  <text x="42" y="48" fill="#f8fafc" font-family="Arial, sans-serif" font-size="23" font-weight="700">BUILD PULSE</text>
+  <text x="42" y="74" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Build. Learn. Ship. Repeat.</text>
+  <path d="M42 122 H165 L195 92 L234 139 L285 74 L334 122 H470 L506 96 L547 122 H858" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" pathLength="100">
+    <animate attributeName="stroke-dasharray" values="0 100;100 0" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="858" cy="122" r="7" fill="#f97316">
+    <animate attributeName="r" values="5;9;5" dur="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".45;1;.45" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="648" y="76" fill="#f97316" font-family="Arial, sans-serif" font-size="14" font-weight="700">KEEP THE STREAK MOVING</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title description">
+  <title id="title">Samarth's core technology stack</title>
+  <desc id="description">An animated display of C++, Java, TypeScript, React, Next.js, Flutter, Node.js, and MongoDB.</desc>
+  <rect width="900" height="220" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="218" rx="13" fill="none" stroke="#263243"/>
+  <text x="44" y="50" fill="#f8fafc" font-family="Arial, sans-serif" font-size="24" font-weight="700">CORE TECHNOLOGY STACK</text>
+  <text x="44" y="77" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Languages and frameworks I reach for when I build.</text>
+  <rect x="44" y="96" width="812" height="2" fill="#223044"/>
+  <rect x="44" y="96" width="126" height="2" fill="#22d3ee">
+    <animate attributeName="x" values="44;730;44" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="Arial, sans-serif" font-weight="700" font-size="16">
+    <g transform="translate(44 124)">
+      <rect width="87" height="48" rx="8" fill="#163044" stroke="#22d3ee"/>
+      <text x="43.5" y="30" fill="#e2e8f0" text-anchor="middle">C++</text>
+    </g>
+    <g transform="translate(143 124)">
+      <rect width="87" height="48" rx="8" fill="#2c2118" stroke="#f97316"/>
+      <text x="43.5" y="30" fill="#e2e8f0" text-anchor="middle">Java</text>
+    </g>
+    <g transform="translate(242 124)">
+      <rect width="110" height="48" rx="8" fill="#172b42" stroke="#60a5fa"/>
+      <text x="55" y="30" fill="#e2e8f0" text-anchor="middle">TypeScript</text>
+    </g>
+    <g transform="translate(364 124)">
+      <rect width="87" height="48" rx="8" fill="#12333a" stroke="#22d3ee"/>
+      <text x="43.5" y="30" fill="#e2e8f0" text-anchor="middle">React</text>
+    </g>
+    <g transform="translate(463 124)">
+      <rect width="92" height="48" rx="8" fill="#22252a" stroke="#e2e8f0"/>
+      <text x="46" y="30" fill="#e2e8f0" text-anchor="middle">Next.js</text>
+    </g>
+    <g transform="translate(567 124)">
+      <rect width="90" height="48" rx="8" fill="#15354d" stroke="#38bdf8"/>
+      <text x="45" y="30" fill="#e2e8f0" text-anchor="middle">Flutter</text>
+    </g>
+    <g transform="translate(669 124)">
+      <rect width="87" height="48" rx="8" fill="#183127" stroke="#4ade80"/>
+      <text x="43.5" y="30" fill="#e2e8f0" text-anchor="middle">Node.js</text>
+    </g>
+    <g transform="translate(768 124)">
+      <rect width="88" height="48" rx="8" fill="#163126" stroke="#4ade80"/>
+      <text x="44" y="30" fill="#e2e8f0" text-anchor="middle">MongoDB</text>
+    </g>
+  </g>
+  <circle cx="64" cy="194" r="5" fill="#22d3ee">
+    <animate attributeName="opacity" values=".25;1;.25" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="78" y="199" fill="#94a3b8" font-family="Arial, sans-serif" font-size="14">Always learning. Always shipping.</text>
+</svg>

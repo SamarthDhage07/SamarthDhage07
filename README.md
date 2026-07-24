@@ -47,6 +47,9 @@ const samarth = {
   <img src="https://img.shields.io/badge/Most_used-C%2B%2B%20%7C%20Java%20%7C%20TypeScript%20%7C%20React-155E75?style=for-the-badge&labelColor=0F172A" alt="Most used technologies" />
   <br />
   <br />
+  <img src="./assets/tech-stack-loop.svg" width="100%" alt="Animated core technology stack" />
+  <br />
+  <br />
 </div>
 
 <div align="center">
@@ -62,17 +65,7 @@ const samarth = {
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamarthDhage07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=22D3EE&text_color=E2E8F0&ring_color=F97316" alt="Samarth's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthDhage07&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E2E8F0" alt="Samarth's top languages" />
-  <br />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=SamarthDhage07&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&sideNums=E2E8F0&currStreakNum=FFFFFF" alt="GitHub contribution streak" />
-  <br />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthDhage07&bg_color=0D1117&color=E2E8F0&line=22D3EE&point=F97316&area=true&hide_border=true" alt="Contribution activity graph" />
-  <br />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=SamarthDhage07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub profile trophies" />
+  <img src="./assets/build-pulse.svg" width="100%" alt="Animated developer activity pulse" />
 </div>
 
 ## Contribution trail
