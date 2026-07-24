@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title description">
+  <title id="title">Current GitHub contribution streak</title>
+  <desc id="description">This card updates automatically from Samarth's public GitHub activity.</desc>
+  <rect width="900" height="180" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="178" rx="13" fill="none" stroke="#263243"/>
+  <text x="42" y="49" fill="#f8fafc" font-family="Arial, sans-serif" font-size="23" font-weight="700">CURRENT CONTRIBUTION STREAK</text>
+  <text x="42" y="77" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Updating from Samarth's public GitHub activity...</text>
+  <circle cx="96" cy="129" r="15" fill="#22d3ee">
+    <animate attributeName="r" values="10;18;10" dur="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M135 129 H840" stroke="#f97316" stroke-width="3" stroke-linecap="round" pathLength="100">
+    <animate attributeName="stroke-dasharray" values="0 100;100 0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+</svg>
