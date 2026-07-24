@@ -17,6 +17,20 @@
   <a href="https://instagram.com/sam__dhage">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
+  <br />
+  <br />
+
+  <a href="https://www.linkedin.com/in/samarth-dhage-72a934382/">
+    <img src="https://github.com/SamarthDhage07.png?size=180" width="120" height="120" alt="Samarth Dhage on LinkedIn" style="border-radius: 50%; border: 3px solid #22D3EE;" />
+  </a>
+  <br />
+  <sub><b>Click the portrait to connect on LinkedIn</b></sub>
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Sharing+the+build+journey+on+Instagram+%40sam__dhage;Connecting+with+builders+on+LinkedIn;Open+to+collaboration%2C+learning%2C+and+hard+problems." alt="Animated social status" />
 </div>
 
 ## About me
@@ -55,6 +69,12 @@ const samarth = {
   <br />
   <br />
   <img src="https://streak-stats.demolab.com?user=SamarthDhage07&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&sideNums=E2E8F0&currStreakNum=FFFFFF" alt="GitHub contribution streak" />
+  <br />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamarthDhage07&bg_color=0D1117&color=E2E8F0&line=22D3EE&point=F97316&area=true&hide_border=true" alt="Contribution activity graph" />
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamarthDhage07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub profile trophies" />
 </div>
 
 ## Contribution trail
