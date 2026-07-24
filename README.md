@@ -1,163 +1,18 @@
-## Hi there 👋
-# 🔢 Check Even or Odd Using Bit Manipulation
-# 🔢 Check Even or Odd Using Bit Manipulation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk">
-  <img src="https://img.shields.io/badge/Topic-Bit%20Manipulation-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Difficulty-Beginner-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Time%20Complexity-O(1)-red?style=for-the-badge">
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam__dhage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samarth-dhage-72a934382/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhagesamarth2027@gamil.com) 
 
-<p align="center">
-  <b>A simple Java program to determine whether a number is Even or Odd using Bitwise Operators instead of the modulus (%) operator.</b>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SamarthDhage07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SamarthDhage07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SamarthDhage07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SamarthDhage07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📖 About
-
-This project demonstrates one of the most fundamental applications of **Bit Manipulation**.
-
-Instead of using:
-
-```java
-n % 2 == 0
-```
-
-the program uses the **Bitwise AND (`&`)** operator:
-
-```java
-(n & 1) == 0
-```
-
-This technique is commonly used in competitive programming, interviews, and low-level programming because it executes in **constant time**.
-
----
-
-## 🚀 How It Works
-
-Every integer has a binary representation.
-
-| Number | Binary | Last Bit | Result |
-|---------|---------|----------|--------|
-| 8 | 1000 | 0 | ✅ Even |
-| 13 | 1101 | 1 | ✅ Odd |
-| 24 | 11000 | 0 | ✅ Even |
-| 31 | 11111 | 1 | ✅ Odd |
-
-The last bit (Least Significant Bit) tells us whether a number is even or odd.
-
-```java
-if ((n & 1) == 0)
-```
-
-- `0` → Even Number
-- `1` → Odd Number
-
----
-
-## 💻 Sample Output
-
-### Input
-
-```java
-n = 8
-```
-
-### Output
-
-```
-even number
-```
-
----
-
-## ⚡ Algorithm
-
-```
-Start
-
-Input Number
-
-Perform:
-number & 1
-
-If result == 0
-      Print "Even Number"
-Else
-      Print "Odd Number"
-
-End
-```
-
----
-
-## 📂 Project Structure
-
-```
-📦 Check-Even-Odd
- ┣ 📜 _01_check_Even_Odd.java
- ┗ 📄 README.md
-```
-
----
-
-## ⏱ Complexity Analysis
-
-| Operation | Complexity |
-|-----------|------------|
-| Time | **O(1)** |
-| Space | **O(1)** |
-
----
-
-## 🎯 Concepts Covered
-
-- ✅ Bit Manipulation
-- ✅ Bitwise AND (`&`)
-- ✅ Binary Numbers
-- ✅ Java Methods
-- ✅ Conditional Statements
-- ✅ Efficient Number Checking
-
----
-
-## 🌟 Why Bit Manipulation?
-
-✔ Faster than traditional arithmetic operations in many low-level implementations.
-
-✔ Frequently asked in coding interviews.
-
-✔ Foundation for advanced DSA and Competitive Programming.
-
----
-
-## 🛠 Built With
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</p>
-
----
-
-## 👨‍💻 Author
-
-### **Samarth Dhage**
-
-### 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sam__dhage)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-dhage-72a934382/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhagesamarth2027@gmail.com)
-
----
-
-## ⭐ Support
-
-If you found this repository helpful,
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 🌟 **Star this repository** and follow me for more **DSA, Java, and Competitive Programming** solutions!
 
