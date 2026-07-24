@@ -1,5 +1,6 @@
 ## Hi there 👋
 # 🔢 Check Even or Odd Using Bit Manipulation
+# 🔢 Check Even or Odd Using Bit Manipulation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk">
@@ -164,4 +165,5 @@ If you found this repository helpful,
 
 ### 🚀 Happy Coding! 💙
 
+</p>
 </p>
